@@ -48,6 +48,7 @@
                 'nestedItemSelector',
                 'itemElement',
                 'stageElement',
+                'stagePadding',
                 'navContainer',
                 'dotsContainer',
                 // Classes
